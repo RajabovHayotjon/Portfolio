@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9ba0f8c7-4e1a-422b-be37-f9855cf8e58e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/contact/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/Aboy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/Aboy1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/Hayot.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/Nalog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/Portfolio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myportfolio/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staticfiles/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/portfolio_detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2jeZLwEuMDiW1nM1FvzBKeo2c0c" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Django Server.Portfolio.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;django.template.preview.state&quot;: &quot;SHOW_EDITOR_AND_PREVIEW&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/hayot/Рабочий стол&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/media" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/staticfiles" />
+      <recent name="$PROJECT_DIR$/media/images" />
+      <recent name="$PROJECT_DIR$/staticfiles/images" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django Server.Portfolio">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Portfolio" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Portfolio" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Portfolio" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="localhost" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18034.82" />
+        <option value="bundled-python-sdk-975db3bf15a3-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ba0f8c7-4e1a-422b-be37-f9855cf8e58e" name="Changes" comment="" />
+      <created>1721749451179</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721749451179</updated>
+      <workItem from="1721749452239" duration="491000" />
+      <workItem from="1721749956246" duration="233000" />
+      <workItem from="1721750189884" duration="233000" />
+      <workItem from="1721895008410" duration="781000" />
+      <workItem from="1721895856245" duration="171000" />
+      <workItem from="1721896175249" duration="67000" />
+      <workItem from="1721896267294" duration="84000" />
+      <workItem from="1721896370678" duration="275000" />
+      <workItem from="1721896791361" duration="259000" />
+      <workItem from="1721897067628" duration="66000" />
+      <workItem from="1721897151448" duration="21000" />
+      <workItem from="1721897190677" duration="765000" />
+      <workItem from="1722056727174" duration="39000" />
+      <workItem from="1722084074909" duration="26000" />
+      <workItem from="1722084121002" duration="239000" />
+      <workItem from="1722084404073" duration="39000" />
+      <workItem from="1722084583493" duration="319000" />
+      <workItem from="1722084917265" duration="17000" />
+      <workItem from="1722084957292" duration="394000" />
+      <workItem from="1722085376585" duration="321000" />
+      <workItem from="1722085714929" duration="420000" />
+      <workItem from="1722086168109" duration="54000" />
+      <workItem from="1722086326633" duration="114000" />
+      <workItem from="1722086461958" duration="64000" />
+      <workItem from="1722086535324" duration="1003000" />
+      <workItem from="1722095368427" duration="623000" />
+      <workItem from="1722340272205" duration="2000" />
+      <workItem from="1722509632650" duration="13000" />
+      <workItem from="1722509679439" duration="11000" />
+      <workItem from="1722509708436" duration="60000" />
+      <workItem from="1722509782458" duration="12000" />
+      <workItem from="1722509805685" duration="10000" />
+      <workItem from="1722509825869" duration="8000" />
+      <workItem from="1722509889679" duration="7000" />
+      <workItem from="1722509908565" duration="10000" />
+      <workItem from="1722509994375" duration="197000" />
+      <workItem from="1722510216397" duration="61000" />
+      <workItem from="1722510286892" duration="19000" />
+      <workItem from="1722510318240" duration="74000" />
+      <workItem from="1722510405039" duration="6000" />
+      <workItem from="1722510424111" duration="256000" />
+      <workItem from="1722510690230" duration="190000" />
+      <workItem from="1722510903496" duration="55000" />
+      <workItem from="1722510968850" duration="79000" />
+      <workItem from="1722511064647" duration="422000" />
+      <workItem from="1722511530245" duration="437000" />
+      <workItem from="1722511983111" duration="10000" />
+      <workItem from="1722512056944" duration="40000" />
+      <workItem from="1722512114769" duration="505000" />
+      <workItem from="1722513346869" duration="130000" />
+      <workItem from="1722513489861" duration="255000" />
+      <workItem from="1722513761587" duration="74000" />
+      <workItem from="1722513851204" duration="4869000" />
+      <workItem from="1722522360801" duration="777000" />
+      <workItem from="1722523459529" duration="416000" />
+      <workItem from="1722668666161" duration="608000" />
+      <workItem from="1722669290698" duration="411000" />
+      <workItem from="1722669812714" duration="545000" />
+      <workItem from="1722670390181" duration="776000" />
+      <workItem from="1722671178996" duration="119000" />
+      <workItem from="1722671314958" duration="1958000" />
+      <workItem from="1722926461221" duration="4099000" />
+      <workItem from="1722952377497" duration="872000" />
+      <workItem from="1722958205128" duration="937000" />
+      <workItem from="1723202886518" duration="15000" />
+      <workItem from="1723203851518" duration="499000" />
+      <workItem from="1723906135795" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

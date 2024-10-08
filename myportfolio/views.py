@@ -1,18 +1,18 @@
 from django.shortcuts import render
 
-from .models import Education, PortfolioItem,Post
+from .models import Education, PortfolioItem, Post
 
 
 def home_view(request):
     items = PortfolioItem.objects.all()
     education = Education.objects.all()
     post = Post.objects.all()
-    form = {
+    context = {
         'items': items,
         'education': education,
         'post': post,
     }
-    return render(request,'index.html',form,)
+    return render(request, 'index.html', context)
 
 
 def portfolio_detail(request):
@@ -23,4 +23,3 @@ def portfolio_detail(request):
         'posts': post,
     }
     return render(request, 'portfolio_detail.html', context)
-

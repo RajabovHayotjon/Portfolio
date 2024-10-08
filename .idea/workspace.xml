@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ba0f8c7-4e1a-422b-be37-f9855cf8e58e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/contact/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/contact/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/contact/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/contact/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myportfolio/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/myportfolio/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myportfolio/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/myportfolio/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myportfolio/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/myportfolio/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myportfolio/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/myportfolio/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myportfolio/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/myportfolio/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myportfolio/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/myportfolio/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="9ba0f8c7-4e1a-422b-be37-f9855cf8e58e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -210,7 +196,7 @@
       <workItem from="1723202886518" duration="15000" />
       <workItem from="1723203851518" duration="499000" />
       <workItem from="1723906135795" duration="8000" />
-      <workItem from="1728385904425" duration="2363000" />
+      <workItem from="1728385904425" duration="3173000" />
     </task>
     <servers />
   </component>
